@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("IcesiMaxBack")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3466898619deadd6cd9aac902e4fd76686f3c844")]
 [assembly: System.Reflection.AssemblyProductAttribute("IcesiMaxBack")]
 [assembly: System.Reflection.AssemblyTitleAttribute("IcesiMaxBack")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

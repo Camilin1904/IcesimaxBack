@@ -30,3 +30,4 @@
 /home/camilin/Documents/Icesi/Compunet 3/c sharp presentation/IcesiMaxBack/obj/Debug/net8.0/IcesiMaxBack.pdb
 /home/camilin/Documents/Icesi/Compunet 3/c sharp presentation/IcesiMaxBack/obj/Debug/net8.0/IcesiMaxBack.genruntimeconfig.cache
 /home/camilin/Documents/Icesi/Compunet 3/c sharp presentation/IcesiMaxBack/obj/Debug/net8.0/ref/IcesiMaxBack.dll
+/home/camilin/Documents/Icesi/Compunet 3/c sharp presentation/IcesiMaxBack/obj/Debug/net8.0/IcesiMaxBack.sourcelink.json
